@@ -1,2 +1,3 @@
-# sip-resources
+# SIP Resources
+
 Various SIP resources.
