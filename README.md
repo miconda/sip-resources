@@ -9,6 +9,14 @@ An incomplete list with various useful SIP resources.
   * [SDP](#sdp)
 * [Online Tutorials](#online-tutorials)
 * [Books](#books)
+* [Network Tools](#network-tools)
+* [SIP Servers](#sip-servers)
+* [SIP Softphones](#sip-softphones)
+* [SIP Hardphones](#sip-hardphones)
+* [SIP Libraries](#sip-libraries)
+* [SIP Command Line Tools](#sip-command-line-tools)
+* [PBX Systems](#pbx-systems)
+* [RTC Events](#rtc-events)
 
 ### Standard Specifications
 
@@ -119,10 +127,12 @@ An incomplete list with various useful SIP resources.
 * Pascom - MobyDick
 * Thirdlane
 
-### Events
+### RTC Events
 
 * [Astricon](http://www.astricon.com)
 * [Cluecon](http://www.cluecon.com)
 * [Fosdem](http://fosdem.org)
 * [Kamailio World](http://www.kamailioworld.com)
+* [TADHack](http://www.tadhack.com)
 * [VoIP2Day](http://www.voip2day.com)
+* [VUC](http://www.vuc.me)
