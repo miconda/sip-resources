@@ -38,7 +38,7 @@ An incomplete list with various useful SIP resources.
 * [ColumbiaEdu - SIP Tutorial](http://www.cs.columbia.edu/~hgs/teaching/ais/slides/2003/sip_long.pdf)
 * [CornellEdu - Understanding SIP](http://www.cs.cornell.edu/courses/cs619/2004fa/documents/siptutorial.pdf)
 * [JDRosen.net - Tutorials](http://www.jdrosen.net/tutorials.html)
-* [RFC3261 Simplified]{http://www.siptopia.org/multimedia-tag/rfc-3261/}
+* [RFC3261 Simplified](http://www.siptopia.org/multimedia-tag/rfc-3261/)
 * [SIP Introduction](http://www.kamailio.org/docs/tutorials/sip-introduction/)
 * [SIPTutorial.net - SIP](http://www.siptutorial.net/SIP/index.html)
 * [TutorialsPoint - SIP](http://www.tutorialspoint.com/session_initiation_protocol/index.htm)
