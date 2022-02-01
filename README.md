@@ -120,9 +120,10 @@ An incomplete list with various useful SIP resources.
 
 ### SIP Command Line Tools
 
-* pjsua
-* sipp
-* sipsak
+* [baresip](https://github.com/baresip/baresip)
+* [pjsua](https://www.pjsip.org/pjsua.htm)
+* [sipp](https://github.com/SIPp/sipp)
+* [sipsak](https://github.com/nils-ohlmeier/sipsak)
 
 ### PBX Systems
 
