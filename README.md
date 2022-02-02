@@ -121,9 +121,15 @@ An incomplete list with various useful SIP resources.
 ### SIP Command Line Tools
 
 * [baresip](https://github.com/baresip/baresip)
+* [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console)
 * [pjsua](https://www.pjsip.org/pjsua.htm)
+* [sipcmd](https://github.com/tmakkonen/sipcmd)
+* [sipcmd2](https://github.com/guisousanunes/sipcmd2)
+* [sipexer](https://github.com/miconda/sipexer)
 * [sipp](https://github.com/SIPp/sipp)
+* [sipping](https://github.com/pbertera/SIPPing)
 * [sipsak](https://github.com/nils-ohlmeier/sipsak)
+* [wsctl](https://github.com/miconda/wsctl)
 
 ### PBX Systems
 
