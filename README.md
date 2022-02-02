@@ -67,11 +67,13 @@ An incomplete list with various useful SIP resources.
 
 ### SIP Servers
 
-* [Asterisk](http://www.asterisk.org)
-* [FreeSwitch](http://www.freeswitch.org)
-* [Kamailio](http://www.kamailio.org)
+* [Asterisk](https://www.asterisk.org)
+* [Dubango WebRTC2SIP](https://github.com/DoubangoTelecom/webrtc2sip)
+* [FreeSwitch](https://www.freeswitch.org)
+* [Janus Gateway](https://github.com/meetecho/janus-gateway)
+* [Kamailio](https://www.kamailio.org)
 * [Mobicents](http://www.mobicents.org/)
-* [ReSIProcate](http://www.resiprocate.org)
+* [reSIProcate](http://www.resiprocate.org)
 * [SEMS](https://github.com/sems-server/sems)
 
 ### SIP Softphones
@@ -144,15 +146,16 @@ SIP softphones running on web browser based on WebRTC standards:
 
 ### SIP Libraries
 
-* BareSIP
-* eXoSIP
-* JAIN-SIP
-* JsSIP
-* MjSIP
-* oSIP
-* PjSIP
-* ReSIProcate
-* SofiaSIP
+* [BareSIP](https://github.com/baresip/baresip)
+* [eXoSIP](https://github.com/aurelihein/exosip)
+* [JAIN-SIP](https://github.com/usnistgov/jsip)
+* [MjSIP](http://www.mjsip.org/)
+* [oSIP](https://www.gnu.org/software/osip/)
+* [PjSIP](https://www.pjsip.org/)
+* [reSIProcate](https://www.resiprocate.org/)
+* [sipsorcery](https://github.com/sipsorcery-org/sipsorcery)
+* [Sofia-SIP](https://sofia-sip.sourceforge.net/)
+* [Zoiper SDK](https://www.zoiper.com/en/voip-sdk)
 
 ### SIP Command Line Tools
 
