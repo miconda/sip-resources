@@ -68,13 +68,18 @@ An incomplete list with various useful SIP resources.
 ### SIP Servers
 
 * [Asterisk](https://www.asterisk.org)
+* [Dracthio](https://drachtio.org/)
 * [Dubango WebRTC2SIP](https://github.com/DoubangoTelecom/webrtc2sip)
 * [FreeSwitch](https://www.freeswitch.org)
 * [Janus Gateway](https://github.com/meetecho/janus-gateway)
 * [Kamailio](https://www.kamailio.org)
 * [Mobicents](http://www.mobicents.org/)
+* [nksip](https://github.com/NetComposer/nksip)
 * [reSIProcate](http://www.resiprocate.org)
+* [routr](https://github.com/fonoster/routr)
 * [SEMS](https://github.com/sems-server/sems)
+* [Sippy B2BUA](https://github.com/sippy/b2bua)
+* [Sippy Go B2BUA](https://github.com/sippy/go-b2bua)
 
 ### SIP Softphones
 
@@ -123,6 +128,7 @@ SIP softphones running on web browser based on WebRTC standards:
 * [Dart SIP UA](https://github.com/flutter-webrtc/dart-sip-ua)
 * [DruCall](https://github.com/opentelecoms-org/drucall)
 * [JSCommunicator](https://github.com/opentelecoms-org/jscommunicator)
+* [React Softphone](https://github.com/prinze77/react-softphone)
 * [SaraPhone](https://github.com/gmaruzz/saraphone)
 * [sipML5](https://www.doubango.org/sipml5/)
 * [Try It JsSIP](https://github.com/versatica/tryit-jssip)
@@ -147,6 +153,7 @@ SIP softphones running on web browser based on WebRTC standards:
 ### SIP Libraries
 
 * [BareSIP](https://github.com/baresip/baresip)
+* [ersip](https://github.com/poroh/ersip)
 * [eXoSIP](https://github.com/aurelihein/exosip)
 * [JAIN-SIP](https://github.com/usnistgov/jsip)
 * [MjSIP](http://www.mjsip.org/)
@@ -172,20 +179,23 @@ SIP softphones running on web browser based on WebRTC standards:
 
 ### PBX Systems
 
-* Asterisk
-* Bicom Systems
-* Elastix
-* Enswitch
-* FreeSwitch
-* Kazoo
-* Pascom - MobyDick
-* Thirdlane
+* [Asterisk](https://www.asterisk.org)
+* [Bicom Systems](https://www.bicomsystems.com/)
+* [Elastix](https://www.elastix.org/)
+* [Enswitch](https://enswitch.com/)
+* [FreePBX](https://www.freepbx.org/)
+* [FreeSwitch](https://www.freeswitch.org)
+* [Kazoo](https://www.2600hz.org/)
+* [Pascom](https://www.pascom.net/)
+* [Thirdlane](https://www.thirdlane.com/)
 
 ### RTC Events
 
 * [Astricon](http://www.astricon.com)
 * [Cluecon](http://www.cluecon.com)
+* [CommCon](https://commcon.xyz)
 * [Fosdem](http://fosdem.org)
+* [JanusCon](https://www.januscon.it)
 * [Kamailio World](http://www.kamailioworld.com)
 * [TADHack](http://www.tadhack.com)
 * [VoIP2Day](http://www.voip2day.com)
