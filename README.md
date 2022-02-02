@@ -11,7 +11,8 @@ An incomplete list with various useful SIP resources.
 * [Books](#books)
 * [Network Tools](#network-tools)
 * [SIP Servers](#sip-servers)
-* [SIP Softphones](#sip-softphones)
+* [SIP Softphones](#sip-gui-softphones)
+* [SIP Softphones](#sip-cli-softphones)
 * [SIP Hardphones](#sip-hardphones)
 * [SIP Libraries](#sip-libraries)
 * [SIP Command Line Tools](#sip-command-line-tools)
@@ -71,24 +72,41 @@ An incomplete list with various useful SIP resources.
 * [ReSIProcate](http://www.resiprocate.org)
 * [SEMS](https://github.com/sems-server/sems)
 
-### SIP Softphones
+### SIP GUI Softphones
 
-* Bria
-* CSIPSimple
-* Ekiga
-* Empathy
-* Jitsi
+SIP softphones with graphical user interface:
+
+* [3CX Softphone](https://www.3cx.com/voip/softphone/)
+* [BareSIP](https://f-droid.org/packages/com.tutpro.baresip/)
+* [BareSIP+](https://f-droid.org/en/packages/com.tutpro.baresip.plus/)
+* [Bria](https://www.counterpath.com/)
+* [CSIPSimple](https://github.com/r3gis3r/CSipSimple)
+* [Ekiga](https://www.ekiga.org/)
+* [Empathy](https://wiki.gnome.org/action/show/Attic/Empathy)
+* [Grandstream Wave](https://www.grandstream.com/products/ip-voice-telephony/softphone-app)
+* [Groundwire - Acrobits](https://www.acrobits.net/sip-client-ios-android/)
+* [Jitsi](https://desktop.jitsi.org/)
 * KPhone
-* Linphone
-* Lumicall
-* QjSimple
+* [Linphone](https://www.linphone.org/)
+* [Lumicall](https://github.com/opentelecoms-org/lumicall)
+* [Microsip](https://www.microsip.org/)
+* [PhonerLite](https://lite.phoner.de/)
+* [QjSimple](https://github.com/klaus3000/QjSimple)
 * QuteCom
 * SFLphone
-* SIPDroid
-* Telephone
-* Twinkle
-* X-Lite
-* Zoiper
+* [SIPDroid](https://github.com/i-p-tel/sipdroid)
+* [Telephone](https://github.com/64characters/Telephone)
+* [Twinkle](https://github.com/LubosD/twinkle)
+* [X-Lite](https://www.counterpath.com/x-lite/)
+* [Zoiper](https://www.zoiper.com/)
+
+### SIP CLI Softphones
+
+SIP softphones with command line interface:
+
+* [baresip](https://github.com/baresip/baresip)
+* [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console)
+* [pjsua](https://www.pjsip.org/pjsua.htm)
 
 ### SIP Hardphones
 
