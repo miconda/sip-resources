@@ -11,8 +11,10 @@ An incomplete list with various useful SIP resources.
 * [Books](#books)
 * [Network Tools](#network-tools)
 * [SIP Servers](#sip-servers)
-* [SIP GUI Softphones](#sip-gui-softphones)
-* [SIP CLI Softphones](#sip-cli-softphones)
+* [SIP Softphones](#sip-softphones)
+  * [SIP GUI Softphones](#sip-gui-softphones)
+  * [SIP CLI Softphones](#sip-cli-softphones)
+  * [SIP WebRTC Softphones](#sip-webrtc-softphones)
 * [SIP Hardphones](#sip-hardphones)
 * [SIP Libraries](#sip-libraries)
 * [SIP Command Line Tools](#sip-command-line-tools)
@@ -72,7 +74,9 @@ An incomplete list with various useful SIP resources.
 * [ReSIProcate](http://www.resiprocate.org)
 * [SEMS](https://github.com/sems-server/sems)
 
-### SIP GUI Softphones
+### SIP Softphones
+
+#### SIP GUI Softphones
 
 SIP softphones with graphical user interface:
 
@@ -100,13 +104,27 @@ SIP softphones with graphical user interface:
 * [X-Lite](https://www.counterpath.com/x-lite/)
 * [Zoiper](https://www.zoiper.com/)
 
-### SIP CLI Softphones
+#### SIP CLI Softphones
 
 SIP softphones with command line interface:
 
 * [baresip](https://github.com/baresip/baresip)
 * [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console)
 * [pjsua](https://www.pjsip.org/pjsua.htm)
+
+#### SIP WebRTC Softphones
+
+SIP softphones running on web browser based on WebRTC standards:
+
+* [Browser Phone](https://github.com/InnovateAsterisk/Browser-Phone)
+* [ctxSIP](https://collecttix.github.io/ctxSip/)
+* [Dart SIP UA](https://github.com/flutter-webrtc/dart-sip-ua)
+* [DruCall](https://github.com/opentelecoms-org/drucall)
+* [JSCommunicator](https://github.com/opentelecoms-org/jscommunicator)
+* [SaraPhone](https://github.com/gmaruzz/saraphone)
+* [sipML5](https://www.doubango.org/sipml5/)
+* [Try It JsSIP](https://github.com/versatica/tryit-jssip)
+* [Webphone SIP](https://github.com/ricardojlrufino/webphone-sip)
 
 ### SIP Hardphones
 
