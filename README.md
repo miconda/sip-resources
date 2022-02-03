@@ -2,6 +2,12 @@
 
 An incomplete list with various useful SIP resources.
 
+Markers:
+
+  * :star: - open source
+  * :zap: - freeware
+  * :moneybag: - paid component
+
 ### Index
 
 * [Standard Specifications](#standard-specifications)
@@ -59,13 +65,14 @@ An incomplete list with various useful SIP resources.
 
 ### Network Tools
 
-* [ngrep](http://ngrep.sourceforge.net/)
-* [sipcapture](http://www.sipcapture.org)
-* [sipgrep](https://github.com/sipcapture/sipgrep)
+* [ngrep](http://ngrep.sourceforge.net/) :star:
+* [homer sipcapture](http://www.sipcapture.org) :star: :moneybag:
+* [sipgrep](https://github.com/sipcapture/sipgrep) :star:
 * [sngrep](https://github.com/irontec/sngrep)
-* [tcpdump](http://www.tcpdump.org/)
-* [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
-* [wireshark](http://www.wireshark.org)
+* [tcpdump](http://www.tcpdump.org/) :star:
+* [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) :star:
+* [voipmonitor](https://www.voipmonitor.org/) :star: :moneybag:
+* [wireshark](http://www.wireshark.org) :star:
 
 ### SIP Servers
 
