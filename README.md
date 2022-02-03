@@ -17,6 +17,8 @@ An incomplete list with various useful SIP resources.
   * [SIP WebRTC Softphones](#sip-webrtc-softphones)
 * [SIP Hardphones](#sip-hardphones)
 * [SIP Libraries](#sip-libraries)
+  * [SIP Native Libraries](#sip-native-libraries)
+  * [SIP JavaScript Libraries](#sip-javascript-libraries)
 * [SIP Command Line Tools](#sip-command-line-tools)
 * [PBX Systems](#pbx-systems)
 * [RTC Events](#rtc-events)
@@ -152,6 +154,8 @@ SIP softphones running on web browser based on WebRTC standards:
 
 ### SIP Libraries
 
+#### SIP Native Libraries
+
 * [BareSIP](https://github.com/baresip/baresip)
 * [ersip](https://github.com/poroh/ersip)
 * [eXoSIP](https://github.com/aurelihein/exosip)
@@ -163,6 +167,13 @@ SIP softphones running on web browser based on WebRTC standards:
 * [sipsorcery](https://github.com/sipsorcery-org/sipsorcery)
 * [Sofia-SIP](https://sofia-sip.sourceforge.net/)
 * [Zoiper SDK](https://www.zoiper.com/en/voip-sdk)
+
+#### SIP JavaScript Libraries
+
+  * [JsSIP](https://jssip.net/)
+  * [QoffeeSIP](https://github.com/Quobis/QoffeeSIP)
+  * [SIPjs](https://github.com/onsip/SIP.js)
+  * [SipML5](https://www.doubango.org/sipml5/)
 
 ### SIP Command Line Tools
 
