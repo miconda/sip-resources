@@ -66,9 +66,11 @@ Markers:
 ### Network Tools
 
 * [ngrep](http://ngrep.sourceforge.net/) :star:
+* [flanders](https://github.com/jonkirkman/flanders) :star:
 * [homer sipcapture](http://www.sipcapture.org) :star: :moneybag:
+* [sip3](https://sip3.io/) :star:
 * [sipgrep](https://github.com/sipcapture/sipgrep) :star:
-* [sngrep](https://github.com/irontec/sngrep)
+* [sngrep](https://github.com/irontec/sngrep) :star:
 * [tcpdump](http://www.tcpdump.org/) :star:
 * [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) :star:
 * [voipmonitor](https://www.voipmonitor.org/) :star: :moneybag:
@@ -76,19 +78,19 @@ Markers:
 
 ### SIP Servers
 
-* [Asterisk](https://www.asterisk.org)
-* [Dracthio](https://drachtio.org/)
-* [Dubango WebRTC2SIP](https://github.com/DoubangoTelecom/webrtc2sip)
-* [FreeSwitch](https://www.freeswitch.org)
-* [Janus Gateway](https://github.com/meetecho/janus-gateway)
-* [Kamailio](https://www.kamailio.org)
-* [Mobicents](http://www.mobicents.org/)
-* [nksip](https://github.com/NetComposer/nksip)
-* [reSIProcate](http://www.resiprocate.org)
-* [routr](https://github.com/fonoster/routr)
-* [SEMS](https://github.com/sems-server/sems)
-* [Sippy B2BUA](https://github.com/sippy/b2bua)
-* [Sippy Go B2BUA](https://github.com/sippy/go-b2bua)
+* [Asterisk](https://www.asterisk.org) :star:
+* [Dracthio](https://drachtio.org/) :star:
+* [Dubango WebRTC2SIP](https://github.com/DoubangoTelecom/webrtc2sip) :star:
+* [FreeSwitch](https://www.freeswitch.org) :star:
+* [Janus Gateway](https://github.com/meetecho/janus-gateway) :star:
+* [Kamailio](https://www.kamailio.org) :star:
+* [Mobicents](http://www.mobicents.org/) :star: :moneybag:
+* [nksip](https://github.com/NetComposer/nksip) :star:
+* [reSIProcate](http://www.resiprocate.org) :star:
+* [routr](https://github.com/fonoster/routr) :star:
+* [SEMS](https://github.com/sems-server/sems) :star: :moneybag:
+* [Sippy B2BUA](https://github.com/sippy/b2bua) :star:
+* [Sippy Go B2BUA](https://github.com/sippy/go-b2bua) :star:
 
 ### SIP Softphones
 
@@ -96,52 +98,52 @@ Markers:
 
 SIP softphones with graphical user interface:
 
-* [3CX Softphone](https://www.3cx.com/voip/softphone/)
-* [BareSIP](https://f-droid.org/packages/com.tutpro.baresip/)
-* [BareSIP+](https://f-droid.org/en/packages/com.tutpro.baresip.plus/)
-* [Bria](https://www.counterpath.com/)
-* [CSIPSimple](https://github.com/r3gis3r/CSipSimple)
-* [Ekiga](https://www.ekiga.org/)
-* [Empathy](https://wiki.gnome.org/action/show/Attic/Empathy)
-* [Grandstream Wave](https://www.grandstream.com/products/ip-voice-telephony/softphone-app)
+* [3CX Softphone](https://www.3cx.com/voip/softphone/) :zap:
+* [BareSIP](https://f-droid.org/packages/com.tutpro.baresip/) :star:
+* [BareSIP+](https://f-droid.org/en/packages/com.tutpro.baresip.plus/) :star:
+* [Bria](https://www.counterpath.com/) :moneybag:
+* [CSIPSimple](https://github.com/r3gis3r/CSipSimple) :star:
+* [Ekiga](https://www.ekiga.org/) :star:
+* [Empathy](https://wiki.gnome.org/action/show/Attic/Empathy) :star:
+* [Grandstream Wave](https://www.grandstream.com/products/ip-voice-telephony/softphone-app) :zap:
 * [Groundwire - Acrobits](https://www.acrobits.net/sip-client-ios-android/)
-* [Jitsi](https://desktop.jitsi.org/)
-* KPhone
-* [Linphone](https://www.linphone.org/)
-* [Lumicall](https://github.com/opentelecoms-org/lumicall)
-* [Microsip](https://www.microsip.org/)
-* [PhonerLite](https://lite.phoner.de/)
-* [QjSimple](https://github.com/klaus3000/QjSimple)
-* QuteCom
-* SFLphone
-* [SIPDroid](https://github.com/i-p-tel/sipdroid)
-* [Telephone](https://github.com/64characters/Telephone)
-* [Twinkle](https://github.com/LubosD/twinkle)
-* [X-Lite](https://www.counterpath.com/x-lite/)
-* [Zoiper](https://www.zoiper.com/)
+* [Jitsi](https://desktop.jitsi.org/) :star:
+* KPhone :star:
+* [Linphone](https://www.linphone.org/) :star:
+* [Lumicall](https://github.com/opentelecoms-org/lumicall) :star:
+* [Microsip](https://www.microsip.org/) :star:
+* [PhonerLite](https://lite.phoner.de/) :zap:
+* [QjSimple](https://github.com/klaus3000/QjSimple) :star:
+* QuteCom :star:
+* SFLphone :star:
+* [SIPDroid](https://github.com/i-p-tel/sipdroid) :star:
+* [Telephone](https://github.com/64characters/Telephone) :star: :moneybag:
+* [Twinkle](https://github.com/LubosD/twinkle) :star:
+* [X-Lite](https://www.counterpath.com/x-lite/) :zap:
+* [Zoiper](https://www.zoiper.com/) :zap: :moneybag:
 
 #### SIP CLI Softphones
 
 SIP softphones with command line interface:
 
-* [baresip](https://github.com/baresip/baresip)
-* [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console)
-* [pjsua](https://www.pjsip.org/pjsua.htm)
+* [baresip](https://github.com/baresip/baresip) :star:
+* [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console) :star:
+* [pjsua](https://www.pjsip.org/pjsua.htm) :star:
 
 #### SIP WebRTC Softphones
 
 SIP softphones running on web browser based on WebRTC standards:
 
-* [Browser Phone](https://github.com/InnovateAsterisk/Browser-Phone)
-* [ctxSIP](https://collecttix.github.io/ctxSip/)
-* [Dart SIP UA](https://github.com/flutter-webrtc/dart-sip-ua)
-* [DruCall](https://github.com/opentelecoms-org/drucall)
-* [JSCommunicator](https://github.com/opentelecoms-org/jscommunicator)
-* [React Softphone](https://github.com/prinze77/react-softphone)
-* [SaraPhone](https://github.com/gmaruzz/saraphone)
-* [sipML5](https://www.doubango.org/sipml5/)
-* [Try It JsSIP](https://github.com/versatica/tryit-jssip)
-* [Webphone SIP](https://github.com/ricardojlrufino/webphone-sip)
+* [Browser Phone](https://github.com/InnovateAsterisk/Browser-Phone) :star:
+* [ctxSIP](https://collecttix.github.io/ctxSip/) :star:
+* [Dart SIP UA](https://github.com/flutter-webrtc/dart-sip-ua) :star:
+* [DruCall](https://github.com/opentelecoms-org/drucall) :star:
+* [JSCommunicator](https://github.com/opentelecoms-org/jscommunicator) :star:
+* [React Softphone](https://github.com/prinze77/react-softphone) :star:
+* [SaraPhone](https://github.com/gmaruzz/saraphone) :star:
+* [sipML5](https://www.doubango.org/sipml5/) :star:
+* [Try It JsSIP](https://github.com/versatica/tryit-jssip) :star:
+* [Webphone SIP](https://github.com/ricardojlrufino/webphone-sip) :star:
 
 ### SIP Hardphones
 
@@ -163,49 +165,50 @@ SIP softphones running on web browser based on WebRTC standards:
 
 #### SIP Native Libraries
 
-* [BareSIP](https://github.com/baresip/baresip)
-* [ersip](https://github.com/poroh/ersip)
-* [eXoSIP](https://github.com/aurelihein/exosip)
-* [JAIN-SIP](https://github.com/usnistgov/jsip)
-* [MjSIP](http://www.mjsip.org/)
-* [oSIP](https://www.gnu.org/software/osip/)
-* [PjSIP](https://www.pjsip.org/)
-* [reSIProcate](https://www.resiprocate.org/)
-* [sipsorcery](https://github.com/sipsorcery-org/sipsorcery)
-* [Sofia-SIP](https://sofia-sip.sourceforge.net/)
-* [Zoiper SDK](https://www.zoiper.com/en/voip-sdk)
+* [BareSIP](https://github.com/baresip/baresip) :star:
+* [ersip](https://github.com/poroh/ersip) :star:
+* [eXoSIP](https://github.com/aurelihein/exosip) :star:
+* [JAIN-SIP](https://github.com/usnistgov/jsip) :star:
+* [MjSIP](http://www.mjsip.org/) :star:
+* [oSIP](https://www.gnu.org/software/osip/) :star:
+* [PjSIP](https://www.pjsip.org/) :star: :moneybag:
+* [reSIProcate](https://www.resiprocate.org/) :star:
+* [sipsorcery](https://github.com/sipsorcery-org/sipsorcery) :star:
+* [Sofia-SIP](https://sofia-sip.sourceforge.net/) :star:
+* [Zoiper SDK](https://www.zoiper.com/en/voip-sdk) :moneybag:
 
 #### SIP JavaScript Libraries
 
-  * [JsSIP](https://jssip.net/)
-  * [QoffeeSIP](https://github.com/Quobis/QoffeeSIP)
-  * [SIPjs](https://github.com/onsip/SIP.js)
-  * [SipML5](https://www.doubango.org/sipml5/)
+  * [JsSIP](https://jssip.net/) :star:
+  * [QoffeeSIP](https://github.com/Quobis/QoffeeSIP) :star:
+  * [SIPjs](https://github.com/onsip/SIP.js) :star:
+  * [SipML5](https://www.doubango.org/sipml5/) :star:
 
 ### SIP Command Line Tools
 
-* [baresip](https://github.com/baresip/baresip)
-* [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console)
-* [pjsua](https://www.pjsip.org/pjsua.htm)
-* [sipcmd](https://github.com/tmakkonen/sipcmd)
-* [sipcmd2](https://github.com/guisousanunes/sipcmd2)
-* [sipexer](https://github.com/miconda/sipexer)
-* [sipp](https://github.com/SIPp/sipp)
-* [sipping](https://github.com/pbertera/SIPPing)
-* [sipsak](https://github.com/nils-ohlmeier/sipsak)
-* [wsctl](https://github.com/miconda/wsctl)
+* [baresip](https://github.com/baresip/baresip) :star:
+* [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console) :star:
+* [pjsua](https://www.pjsip.org/pjsua.htm) :star:
+* [sipcmd](https://github.com/tmakkonen/sipcmd) :star:
+* [sipcmd2](https://github.com/guisousanunes/sipcmd2) :star:
+* [sipexer](https://github.com/miconda/sipexer) :star:
+* [sipp](https://github.com/SIPp/sipp) :star:
+* [sipping](https://github.com/pbertera/SIPPing) :star:
+* [sipsak](https://github.com/nils-ohlmeier/sipsak) :star:
+* [wsctl](https://github.com/miconda/wsctl) :star:
 
 ### PBX Systems
 
-* [Asterisk](https://www.asterisk.org)
-* [Bicom Systems](https://www.bicomsystems.com/)
-* [Elastix](https://www.elastix.org/)
-* [Enswitch](https://enswitch.com/)
-* [FreePBX](https://www.freepbx.org/)
-* [FreeSwitch](https://www.freeswitch.org)
-* [Kazoo](https://www.2600hz.org/)
-* [Pascom](https://www.pascom.net/)
-* [Thirdlane](https://www.thirdlane.com/)
+* [Asterisk](https://www.asterisk.org) :star:
+* [Bicom Systems](https://www.bicomsystems.com/) :moneybag:
+* [Elastix](https://www.elastix.org/) :star: :moneybag:
+* [Enswitch](https://enswitch.com/) :moneybag:
+* [FreePBX](https://www.freepbx.org/) :star:
+* [FreeSwitch](https://www.freeswitch.org) :star:
+* [FusionPBX](https://www.fusionpbx.com/) :star:
+* [Kazoo](https://www.2600hz.org/) :star:
+* [Pascom](https://www.pascom.net/) :moneybag:
+* [Thirdlane](https://www.thirdlane.com/) :moneybag:
 
 ### RTC Events
 
