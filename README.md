@@ -1,6 +1,7 @@
 ## SIP Resources
 
-An incomplete list with various useful SIP resources.
+An incomplete list with various useful SIP resources, mostly open source, but
+not only.
 
 Markers:
 
@@ -26,6 +27,7 @@ Markers:
   * [SIP Native Libraries](#sip-native-libraries)
   * [SIP JavaScript Libraries](#sip-javascript-libraries)
 * [SIP Command Line Tools](#sip-command-line-tools)
+* [Telephony Operator Systems](#telephony-operator-systems)
 * [PBX Systems](#pbx-systems)
 * [RTC Events](#rtc-events)
 
@@ -197,6 +199,12 @@ SIP softphones running on web browser based on WebRTC standards:
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) :star:
 * [wsctl](https://github.com/miconda/wsctl) :star:
 
+### Telephony Operator Systems
+
+* [dSIPRouter](https://dsiprouter.org/) :star:
+* [IVOZ Provider](https://github.com/irontec/ivozprovider) :star:
+* [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
+
 ### PBX Systems
 
 * [Asterisk](https://www.asterisk.org) :star:
@@ -209,6 +217,7 @@ SIP softphones running on web browser based on WebRTC standards:
 * [Kazoo](https://www.2600hz.org/) :star:
 * [Pascom](https://www.pascom.net/) :moneybag:
 * [Thirdlane](https://www.thirdlane.com/) :moneybag:
+
 
 ### RTC Events
 
