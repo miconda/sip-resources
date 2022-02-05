@@ -149,18 +149,22 @@ SIP softphones running on web browser based on WebRTC standards:
 
 ### SIP Hardphones
 
+* AudioCodes
 * Avaya
-* Cisco/Linksys
-* Digium
+* Cisco (Linksys, Sipura)
+* Fanvil
 * Gigaset (Siemens)
 * Grandstream
-* Obihai
+* HTech
 * Panasonic
-* Polycom
-* Mitel/Aastra
+* Poly (Polycom, Obihai)
+* Mitel (Aastra)
+* Panasonic
+* Sangoma (Digium)
 * Snom
 * Tiptel
 * Ubiquiti
+* VTech
 * Yealink
 
 ### SIP Libraries
