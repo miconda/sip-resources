@@ -207,10 +207,10 @@ SIP softphones running on web browser based on WebRTC standards:
 
 ### RTP Relays
 
-* [erlrtpproxy](https://github.com/lemenkov/erlrtpproxy)
-* [pylrkproxy](https://github.com/mojtabaesfandiari/pylrkproxy)
-* [rtpengine](https://github.com/sipwise/rtpengine)
-* [rtpproxy](https://github.com/sippy/rtpproxy)
+* [erlrtpproxy](https://github.com/lemenkov/erlrtpproxy) :star:
+* [pylrkproxy](https://github.com/mojtabaesfandiari/pylrkproxy) :star:
+* [rtpengine](https://github.com/sipwise/rtpengine) :star:
+* [rtpproxy](https://github.com/sippy/rtpproxy) :star:
 
 ### Telephony Operator Systems
 
