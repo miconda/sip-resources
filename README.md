@@ -173,19 +173,34 @@ SIP softphones running on web browser based on WebRTC standards:
 
 #### SIP Native Libraries
 
+SIP libraries written in C, C++, Java, Go, Rust, Python, ...:
+
 * [BareSIP](https://github.com/baresip/baresip) :star:
 * [ersip](https://github.com/poroh/ersip) :star:
 * [eXoSIP](https://github.com/aurelihein/exosip) :star:
+* [ezk sip - rust](https://github.com/kbalt/ezk) :star:
+* [gosip - ghettovoice](https://github.com/ghettovoice/gosip) :star:
+* [gosip - jart](https://github.com/jart/gosip) :star:
+* [gossip](https://github.com/StefanKopieczek/gossip) :star:
+* [go-sip](https://github.com/1lann/go-sip) :star:
+* [go-sip-ua](https://github.com/cloudwebrtc/go-sip-ua) :star:
 * [JAIN-SIP](https://github.com/usnistgov/jsip) :star:
+* [libsip - rust](https://github.com/ByteHeathen/libsip)
 * [MjSIP](http://www.mjsip.org/) :star:
 * [oSIP](https://www.gnu.org/software/osip/) :star:
+* [parsip - rust](https://github.com/kamarkiewicz/parsip) :star:
 * [PjSIP](https://www.pjsip.org/) :star: :moneybag:
+* [pyVoIP](https://github.com/tayler6000/pyVoIP) :star:
 * [reSIProcate](https://www.resiprocate.org/) :star:
+* [rsip - rust](https://github.com/vasilakisfil/rsip) :star:
+* [sipcore - rust](https://github.com/kurotych/sipcore) :star:
 * [sipsorcery](https://github.com/sipsorcery-org/sipsorcery) :star:
 * [Sofia-SIP](https://sofia-sip.sourceforge.net/) :star:
 * [Zoiper SDK](https://www.zoiper.com/en/voip-sdk) :moneybag:
 
 #### SIP JavaScript Libraries
+
+SIP libraries written in JavaScript:
 
   * [JsSIP](https://jssip.net/) :star:
   * [QoffeeSIP](https://github.com/Quobis/QoffeeSIP) :star:
