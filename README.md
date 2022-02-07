@@ -85,6 +85,7 @@ Markers:
 * [Dracthio](https://drachtio.org/) :star:
 * [Dubango WebRTC2SIP](https://github.com/DoubangoTelecom/webrtc2sip) :star:
 * [FreeSwitch](https://www.freeswitch.org) :star:
+* [GNU Bayonne](https://www.gnu.org/software/bayonne/)
 * [Janus Gateway](https://github.com/meetecho/janus-gateway) :star:
 * [Kamailio](https://www.kamailio.org) :star:
 * [Mobicents](http://www.mobicents.org/) :star: :moneybag:
@@ -231,6 +232,7 @@ SIP libraries written in JavaScript:
 
 * [dSIPRouter](https://dsiprouter.org/) :star:
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) :star:
+* [Open5GS](https://open5gs.org/)
 * [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
 
 ### PBX Systems
@@ -242,9 +244,13 @@ SIP libraries written in JavaScript:
 * [FreePBX](https://www.freepbx.org/) :star:
 * [FreeSwitch](https://www.freeswitch.org) :star:
 * [FusionPBX](https://www.fusionpbx.com/) :star:
+* [Gemeinschaft 5](https://www.alternative-solution.de/gs5)
 * [Kazoo](https://www.2600hz.org/) :star:
 * [Pascom](https://www.pascom.net/) :moneybag:
+* [PekePBX](https://pekepbx.com/) :moneybag:
+* [SwitchVox](https://www.sangoma.com/business-phone-systems/) :moneybag:
 * [Thirdlane](https://www.thirdlane.com/) :moneybag:
+* [VoIPNow](https://www.4psa.com/) :moneybag:
 
 
 ### RTC Events
