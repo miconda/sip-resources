@@ -95,7 +95,7 @@ Markers:
 * [SEMS](https://github.com/sems-server/sems) :star: :moneybag:
 * [Sippy B2BUA](https://github.com/sippy/b2bua) :star:
 * [Sippy Go B2BUA](https://github.com/sippy/go-b2bua) :star:
-* [Siproxd](https://github.com/hb9xar/siproxd)
+* [Siproxd](https://github.com/hb9xar/siproxd) :star:
 
 ### SIP Softphones
 
@@ -207,6 +207,7 @@ SIP libraries written in JavaScript:
   * [QoffeeSIP](https://github.com/Quobis/QoffeeSIP) :star:
   * [SIPjs](https://github.com/onsip/SIP.js) :star:
   * [SipML5](https://www.doubango.org/sipml5/) :star:
+  * [SipML5-NG](https://github.com/cloudonix/sipml5-ng) :star:
 
 ### SIP Command Line Tools
 
@@ -234,6 +235,7 @@ SIP libraries written in JavaScript:
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) :star:
 * [Open5GS](https://open5gs.org/)
 * [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
+* [Wazo Platform](https://wazo-platform.org/) :star:
 
 ### PBX Systems
 
