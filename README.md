@@ -147,6 +147,7 @@ SIP softphones running on web browser based on WebRTC standards:
 * [React Softphone](https://github.com/prinze77/react-softphone) :star:
 * [SaraPhone](https://github.com/gmaruzz/saraphone) :star:
 * [sipML5](https://www.doubango.org/sipml5/) :star:
+* [sipphone - chrome extension](https://github.com/anshkatriya/sipphone/tree/develop) :star:
 * [Try It JsSIP](https://github.com/versatica/tryit-jssip) :star:
 * [Webphone SIP](https://github.com/ricardojlrufino/webphone-sip) :star:
 
