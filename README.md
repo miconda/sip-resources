@@ -174,7 +174,7 @@ SIP softphones running on web browser based on WebRTC standards:
 
 #### SIP Native Libraries
 
-SIP libraries written in C, C++, Java, Go, Rust, Python, ...:
+SIP libraries written in C, C++, Java, Go, Rust, Python, PHP ...:
 
 * [BareSIP](https://github.com/baresip/baresip) :star:
 * [ersip](https://github.com/poroh/ersip) :star:
@@ -190,6 +190,7 @@ SIP libraries written in C, C++, Java, Go, Rust, Python, ...:
 * [MjSIP](http://www.mjsip.org/) :star:
 * [oSIP](https://www.gnu.org/software/osip/) :star:
 * [parsip - rust](https://github.com/kamarkiewicz/parsip) :star:
+* [php-sip](https://github.com/rtckit/php-sip) :star:
 * [PjSIP](https://www.pjsip.org/) :star: :moneybag:
 * [pyVoIP](https://github.com/tayler6000/pyVoIP) :star:
 * [reSIProcate](https://www.resiprocate.org/) :star:
