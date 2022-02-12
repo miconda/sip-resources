@@ -235,8 +235,18 @@ SIP libraries written in JavaScript:
 
 * [dSIPRouter](https://dsiprouter.org/) :star:
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) :star:
-* [Open5GS](https://open5gs.org/)
+* [Jambonz](https://github.com/jambonz) :star:
+* [Open5GS](https://open5gs.org/) :star:
 * [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
+* [Wazo Platform](https://wazo-platform.org/) :star:
+
+### Telephony API Platforms
+
+* [Fonoster](https://github.com/fonoster/fonoster) :star:
+* [Plivo](https://github.com/plivo) :star: :moneybag:
+* [Signalwire](https://www.signalwire.com) :moneybag:
+* [Twillio](https://www.twillio.com) :moneybag:
+* [Vonage - Nexmo](https://developer.vonage.com/) :moneybag:
 * [Wazo Platform](https://wazo-platform.org/) :star:
 
 ### PBX Systems
