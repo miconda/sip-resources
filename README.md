@@ -214,14 +214,27 @@ SIP libraries written in JavaScript:
 ### SIP Command Line Tools
 
 * [baresip](https://github.com/baresip/baresip) :star:
+* [isip](https://github.com/halit/isip) :star:
 * [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console) :star:
 * [pjsua](https://www.pjsip.org/pjsua.htm) :star:
+* [protos-sip](https://gitlab.com/kalilinux/packages/protos-sip)
+* [protos-test-suite-c07-sip](https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip) :star:
+* [sipat](https://github.com/vkubart/sipat)
 * [sipcmd](https://github.com/tmakkonen/sipcmd) :star:
 * [sipcmd2](https://github.com/guisousanunes/sipcmd2) :star:
 * [sipexer](https://github.com/miconda/sipexer) :star:
 * [sipp](https://github.com/SIPp/sipp) :star:
+* [sippts](https://github.com/Pepelux/sippts) :star:
 * [sipping](https://github.com/pbertera/SIPPing) :star:
+* [sipq](https://github.com/logicall/sipq) :star:
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) :star:
+* [siptest (1)](https://github.com/ryngpbx/siptest) :star:
+* [siptest (2)](https://github.com/zionist/siptest) :star:
+* [sipvicious](https://github.com/EnableSecurity/sipvicious) :star:
+* [sip_reg - exosip](https://github.com/aurelihein/exosip/tree/master/tools) :star:
+* [voip_patrol](https://github.com/jchavanton/voip_patrol) :star:
+* [voip_perf](https://github.com/jchavanton/voip_perf)
+* [volts](https://github.com/igorolhovskiy/volts) :star:
 * [wsctl](https://github.com/miconda/wsctl) :star:
 
 ### RTP Relays
