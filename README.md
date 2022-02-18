@@ -30,6 +30,7 @@ Markers:
 * [RTP Relays](#rtp-relays)
 * [Telephony Operator Systems](#telephony-operator-systems)
 * [PBX Systems](#pbx-systems)
+* [Session Border Controllers](#session-border-controllers)
 * [RTC Events](#rtc-events)
 
 ### Standard Specifications
@@ -279,6 +280,11 @@ SIP libraries written in JavaScript:
 * [Thirdlane](https://www.thirdlane.com/) :moneybag:
 * [VoIPNow](https://www.4psa.com/) :moneybag:
 
+### Session Border Controllers
+
+* [libresbc](https://github.com/hnimminh/libresbc) :star:
+* [SEMS](https://github.com/sems-server/sems) :star: :moneybag:
+* [sbcOS](https://github.com/voiceboys/sbcOS) :star:
 
 ### RTC Events
 
