@@ -256,6 +256,7 @@ SIP libraries written in JavaScript:
 
 ### Telephony API Platforms
 
+* [Telnyx](https://developers.telnyx.com/) :moneybag:
 * [Eqivo](https://eqivo.org) :star:
 * [Fonoster](https://github.com/fonoster/fonoster) :star:
 * [Plivo](https://github.com/plivo) :star: :moneybag:
