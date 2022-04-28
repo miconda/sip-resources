@@ -256,11 +256,11 @@ SIP libraries written in JavaScript:
 
 ### Telephony API Platforms
 
-* [Telnyx](https://developers.telnyx.com/) :moneybag:
 * [Eqivo](https://eqivo.org) :star:
 * [Fonoster](https://github.com/fonoster/fonoster) :star:
 * [Plivo](https://github.com/plivo) :star: :moneybag:
 * [Signalwire](https://www.signalwire.com) :moneybag:
+* [Telnyx](https://developers.telnyx.com/) :moneybag:
 * [Twillio](https://www.twillio.com) :moneybag:
 * [Vonage - Nexmo](https://developer.vonage.com/) :moneybag:
 * [Wazo Platform](https://wazo-platform.org/) :star:
