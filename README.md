@@ -281,6 +281,7 @@ SIP libraries written in JavaScript:
 * [PekePBX](https://pekepbx.com/) :moneybag:
 * [SwitchVox](https://www.sangoma.com/business-phone-systems/) :moneybag:
 * [Thirdlane](https://www.thirdlane.com/) :moneybag:
+* [VitalPBX](https://www.vitalpbx.com/) :star: :moneybag:
 * [VoIPNow](https://www.4psa.com/) :moneybag:
 
 ### Session Border Controllers
