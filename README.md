@@ -57,6 +57,7 @@ Markers:
 * [SIP Introduction](http://www.kamailio.org/docs/tutorials/sip-introduction/)
 * [SIPTutorial.net - SIP](http://www.siptutorial.net/SIP/index.html)
 * [StarTrinity SIP Turorials](http://startrinity.com/VoIP/Resources/SipArticlesAndTutorials.aspx)
+* [Tech-invite](https://www.tech-invite.com/fo-sip/tinv-fo-sip-ex3261.html)
 * [TutorialsPoint - SIP](http://www.tutorialspoint.com/session_initiation_protocol/index.htm)
 * [VoIPMechanic - SIP Basics](http://www.voipmechanic.com/sip-basics.htm)
 * [VoIP Protocols: Introducing SIP](http://toncar.cz/Tutorials/VoIP/VoIP_Protocols_Introducing_SIP.html)
