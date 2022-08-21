@@ -291,6 +291,11 @@ SIP libraries written in JavaScript:
 * [SEMS](https://github.com/sems-server/sems) :star: :moneybag:
 * [sbcOS](https://github.com/voiceboys/sbcOS) :star:
 
+### Billing And Rating
+
+* [CGRateS](https://github.com/cgrates/cgrates) :star:
+* [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) :start:
+
 ### RTC Events
 
 * [Astricon](http://www.astricon.com)
