@@ -293,7 +293,11 @@ SIP libraries written in JavaScript:
 
 ### Billing And Rating
 
+* [A2Billing](https://github.com/Star2Billing/a2billing) :star:
+* [ASTPP](https://github.com/iNextrix/ASTPP) :star:
 * [CGRateS](https://github.com/cgrates/cgrates) :star:
+* [MagnusBilling7](https://github.com/magnussolution/magnusbilling7) :star:
+* [OV500](https://github.com/openvoips/OV500) :star:
 * [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) :start:
 
 ### RTC Events
