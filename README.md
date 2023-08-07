@@ -249,12 +249,19 @@ SIP libraries written in JavaScript:
 
 ### Telephony Operator Systems
 
+#### Fixed Network Telephony
+
 * [dSIPRouter](https://dsiprouter.org/) :star:
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) :star:
 * [Jambonz](https://github.com/jambonz) :star:
-* [Open5GS](https://open5gs.org/) :star:
 * [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
 * [Wazo Platform](https://wazo-platform.org/) :star:
+
+#### Mobile Network Telephony
+
+* [Free5GS](https://free5gc.org/) :star:
+* [Ope5GCore](https://www.open5gcore.org/)
+* [Open5GS](https://open5gs.org/) :star:
 
 ### Telephony API Platforms
 
