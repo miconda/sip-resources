@@ -29,6 +29,8 @@ Markers:
 * [SIP Command Line Tools](#sip-command-line-tools)
 * [RTP Relays](#rtp-relays)
 * [Telephony Operator Systems](#telephony-operator-systems)
+  * [Fixed Network Telephony](#fixed-network-telephony)
+  * [Mobile Network Telephony](#mobile-network-telephony)
 * [Telephony API Platforms](#telephony-api-platforms)
 * [PBX Systems](#pbx-systems)
 * [Session Border Controllers](#session-border-controllers)
