@@ -75,7 +75,7 @@ Markers:
 
 * [ngrep](http://ngrep.sourceforge.net/) :star:
 * [flanders](https://github.com/jonkirkman/flanders) :star:
-* [hepic](http://www.sipcapture.org) :moneybag:
+* [hepic](http://www.hepic.tel) :moneybag:
 * [homer sipcapture](http://www.sipcapture.org) :star:
 * [sip3](https://sip3.io/) :star:
 * [sipgrep](https://github.com/sipcapture/sipgrep) :star:
