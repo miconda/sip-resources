@@ -320,5 +320,4 @@ SIP libraries written in JavaScript:
 * [JanusCon](https://www.januscon.it)
 * [Kamailio World](http://www.kamailioworld.com)
 * [TADHack](http://www.tadhack.com)
-* [VoIP2Day](http://www.voip2day.com)
 * [VUC](http://www.vuc.me)
