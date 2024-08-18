@@ -319,5 +319,6 @@ SIP libraries written in JavaScript:
 * [Fosdem](http://fosdem.org)
 * [JanusCon](https://www.januscon.it)
 * [Kamailio World](http://www.kamailioworld.com)
+* [RTC Conference](https://www.rtc-conference.com)
 * [TADHack](http://www.tadhack.com)
 * [VUC](http://www.vuc.me)
