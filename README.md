@@ -34,6 +34,7 @@ Markers:
 * [Telephony API Platforms](#telephony-api-platforms)
 * [PBX Systems](#pbx-systems)
 * [Session Border Controllers](#session-border-controllers)
+* [SIP Frameworks](#sip-frameworks)
 * [RTC Events](#rtc-events)
 
 ### Standard Specifications
@@ -311,6 +312,10 @@ SIP libraries written in JavaScript:
 * [MagnusBilling7](https://github.com/magnussolution/magnusbilling7) :star:
 * [OV500](https://github.com/openvoips/OV500) :star:
 * [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) :star:
+
+### SIP Frameworks
+
+* [SIP-Lab](https://github.com/MayamaTakeshi/sip-lab) :star: - a node module that helps to write SIP functional tests
 
 ### RTC Events
 
