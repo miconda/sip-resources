@@ -317,6 +317,11 @@ SIP libraries written in JavaScript:
 
 * [SIP-Lab](https://github.com/MayamaTakeshi/sip-lab) :star: - a node module that helps to write SIP functional tests
 
+### Log Management Tools
+
+* [Graylog][https://www.graylog.org/] :star:
+* [SigNoz](https://signoz.io/) :star:
+
 ### RTC Events
 
 * [Astricon](http://www.astricon.com)
