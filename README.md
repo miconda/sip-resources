@@ -222,6 +222,7 @@ SIP libraries written in JavaScript:
 ### SIP Command Line Tools
 
 * [baresip](https://github.com/baresip/baresip) :star:
+* [bluebox](https://github.com/jesusprubio/bluebox) :star:
 * [isip](https://github.com/halit/isip) :star:
 * [linphonec](https://github.com/BelledonneCommunications/liblinphone/tree/master/console) :star:
 * [pjsua](https://www.pjsip.org/pjsua.htm) :star:
