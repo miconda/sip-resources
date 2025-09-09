@@ -241,6 +241,7 @@ SIP libraries written in JavaScript:
 * [siptest (2)](https://github.com/zionist/siptest) :star:
 * [sipvicious](https://github.com/EnableSecurity/sipvicious) :star:
 * [sip_reg - exosip](https://github.com/aurelihein/exosip/tree/master/tools) :star:
+* [telefonist](https://github.com/negbie/telefonist) :star:
 * [voip_patrol](https://github.com/jchavanton/voip_patrol) :star:
 * [voip_perf](https://github.com/jchavanton/voip_perf)
 * [volts](https://github.com/igorolhovskiy/volts) :star:
