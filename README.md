@@ -263,6 +263,7 @@ SIP libraries written in JavaScript:
 * [Jambonz](https://github.com/jambonz) :star:
 * [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
 * [Wazo Platform](https://wazo-platform.org/) :star:
+* [Yeti-Switch](https://github.com/yeti-switch) :star:
 
 #### Mobile Network Telephony
 
@@ -314,6 +315,7 @@ SIP libraries written in JavaScript:
 * [MagnusBilling7](https://github.com/magnussolution/magnusbilling7) :star:
 * [OV500](https://github.com/openvoips/OV500) :star:
 * [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) :star:
+* [Yeti-Switch](https://github.com/yeti-switch) :star:
 
 ### SIP Frameworks
 
