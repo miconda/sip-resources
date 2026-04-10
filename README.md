@@ -33,9 +33,10 @@ Markers:
   * [Mobile Network Telephony](#mobile-network-telephony)
 * [Telephony API Platforms](#telephony-api-platforms)
 * [PBX Systems](#pbx-systems)
-* [PBX Add-ons](#pbx-add-ons)
+* [PBX Add-Ons](#pbx-add-ons)
 * [Session Border Controllers](#session-border-controllers)
 * [SIP Frameworks](#sip-frameworks)
+* [SIP-Related Add-Ons](#sip-related-add-ons)
 * [RTC Events](#rtc-events)
 
 ### Standard Specifications
@@ -331,6 +332,10 @@ SIP libraries written in JavaScript:
 
 * [Graylog][https://www.graylog.org/] :star:
 * [SigNoz](https://signoz.io/) :star:
+
+### SIP-Related Add-Ons
+
+* [SIMULAP Plugin SIP](https://github.com/SIMULAP/simulap-plugin-sip) :star: - SIP connectivity to Apache JMeter
 
 ### RTC Events
 
