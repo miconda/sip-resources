@@ -304,8 +304,8 @@ SIP libraries written in JavaScript:
 
 ### PBX Add-ons
 
-* [IVR Studio](https://miavazzo.github.io/ivrstudio-website/) :star: :moneybag: - FreePBX module to generate professional IVR audio with neural
-Text-to-Speech (Edge-TTS / ElevenLabs) and YouTube background music. Exports to .ulaw (Asterisk) and .wav (FreeSWITCH).
+* [IVR Studio](https://miavazzo.github.io/ivrstudio-website/) :star: :moneybag: - FreePBX module to
+  generate professional IVR audio with neural Text-to-Speech
 
 ### Session Border Controllers
 
