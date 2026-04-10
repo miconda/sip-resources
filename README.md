@@ -33,6 +33,7 @@ Markers:
   * [Mobile Network Telephony](#mobile-network-telephony)
 * [Telephony API Platforms](#telephony-api-platforms)
 * [PBX Systems](#pbx-systems)
+* [PBX Add-ons](#pbx-add-ons)
 * [Session Border Controllers](#session-border-controllers)
 * [SIP Frameworks](#sip-frameworks)
 * [RTC Events](#rtc-events)
@@ -299,6 +300,11 @@ SIP libraries written in JavaScript:
 * [VitalPBX](https://www.vitalpbx.com/) :star: :moneybag:
 * [Vodia PBX](https://vodia.com/) :moneybag:
 * [VoIPNow](https://www.4psa.com/) :moneybag:
+
+### PBX Add-ons
+
+* [IVR Studio](https://miavazzo.github.io/ivrstudio-website/) :star: :moneybag: - FreePBX module to generate professional IVR audio with neural
+Text-to-Speech (Edge-TTS / ElevenLabs) and YouTube background music. Exports to .ulaw (Asterisk) and .wav (FreeSWITCH).
 
 ### Session Border Controllers
 
