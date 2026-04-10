@@ -36,6 +36,7 @@ Markers:
 * [PBX Add-Ons](#pbx-add-ons)
 * [Session Border Controllers](#session-border-controllers)
 * [SIP Frameworks](#sip-frameworks)
+* [Log Management Tools](#log-management-tools)
 * [SIP-Related Add-Ons](#sip-related-add-ons)
 * [RTC Events](#rtc-events)
 
