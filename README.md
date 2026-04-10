@@ -331,7 +331,7 @@ SIP libraries written in JavaScript:
 
 ### Log Management Tools
 
-* [Graylog][https://www.graylog.org/] :star:
+* [Graylog](https://www.graylog.org/) :star:
 * [SigNoz](https://signoz.io/) :star:
 
 ### SIP-Related Add-Ons
