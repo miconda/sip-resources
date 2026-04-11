@@ -265,6 +265,7 @@ SIP libraries written in JavaScript:
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) :star:
 * [Jambonz](https://github.com/jambonz) :star:
 * [SIP:Provider CE](https://www.sipwise.com/spce/) :star:
+* [Voiceblender](https://github.com/VoiceBlender/voiceblender) :star:
 * [Wazo Platform](https://wazo-platform.org/) :star:
 * [Yeti-Switch](https://github.com/yeti-switch) :star:
 
@@ -308,6 +309,8 @@ SIP libraries written in JavaScript:
 
 * [IVR Studio](https://miavazzo.github.io/ivrstudio-website/) :star: :moneybag: - FreePBX module to
   generate professional IVR audio with neural Text-to-Speech
+* [QueueMetrics](https://www.queuemetrics.com) :moneybag: - Contact-centre monitoring and reporting,
+  works with most Asterisk and FreeSwitch based systems. 
 
 ### Session Border Controllers
 
