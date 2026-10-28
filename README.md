@@ -310,6 +310,8 @@ SIP libraries written in JavaScript:
   generate professional IVR audio with neural Text-to-Speech
 * [QueueMetrics](https://www.queuemetrics.com) :moneybag: - Contact-centre monitoring and reporting,
   works with most Asterisk and FreeSwitch based systems. 
+* [VoiceOI](https://voiceoi.com) :moneybag: - No-code outbound AI voice bots for call centers: they log in
+  to VICIdial as remote agents or dial through any SIP carrier, and live-transfer qualified callers.
 
 ### Session Border Controllers
 
