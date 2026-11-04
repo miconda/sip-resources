@@ -282,6 +282,7 @@ SIP libraries written in JavaScript:
 * [Signalwire](https://www.signalwire.com) :moneybag:
 * [Telnyx](https://developers.telnyx.com/) :moneybag:
 * [Twillio](https://www.twillio.com) :moneybag:
+* [Vobiz](https://www.vobiz.ai/docs/) :moneybag:
 * [Vonage - Nexmo](https://developer.vonage.com/) :moneybag:
 * [Wazo Platform](https://wazo-platform.org/) :star:
 
