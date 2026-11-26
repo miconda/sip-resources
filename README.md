@@ -63,6 +63,7 @@ Markers:
 * [RFC3261 Simplified](https://www.youtube.com/c/SiptopiaOrgTutorials/videos)
 * [SIP Introduction](http://www.kamailio.org/docs/tutorials/sip-introduction/)
 * [SIPTutorial.net - SIP](http://www.siptutorial.net/SIP/index.html)
+* [SoftPage - SIP Response Codes Lookup](https://www.softpagecms.com/sip-response-codes/)
 * [StarTrinity SIP Turorials](http://startrinity.com/VoIP/Resources/SipArticlesAndTutorials.aspx)
 * [TutorialsPoint - SIP](http://www.tutorialspoint.com/session_initiation_protocol/index.htm)
 * [VoIPMechanic - SIP Basics](http://www.voipmechanic.com/sip-basics.htm)
